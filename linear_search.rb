@@ -14,3 +14,5 @@ if existe == -1
 else
     puts "Element is present at index"
 end
+
+puts "fim"
